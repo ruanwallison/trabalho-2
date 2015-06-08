@@ -21,3 +21,6 @@ typedef struct locacao{
 	int locad;
 }*locacaos;
 
+int main(){
+	
+}
